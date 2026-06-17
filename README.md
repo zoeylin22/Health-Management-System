@@ -2,7 +2,7 @@
 
 ## 專案簡介
 
-本專案為「系統分析與設計」課程之系統分析專案，建立一套健康管理系統，協助使用者記錄個人健康資訊、運動紀錄與健康目標，並透過系統化方式進行健康管理與分析。
+本專案為「系統分析與設計」課程之系統分析專案，旨在建立一套健康管理系統，協助使用者記錄個人健康資訊、運動紀錄與健康目標，並透過系統化方式進行健康管理與分析。
 
 ---
 
@@ -48,19 +48,24 @@
 
 ---
 
+# 專案文件快速導覽
+
 ## 系統分析文件
 
-### 需求分析文件
+* [需求分析文件](docs/RequirementAnalysis.md)
+* [功能需求規格書](docs/FunctionalRequirements.md)
+* [非功能需求規格書](docs/NonFunctionalRequirements.md)
+* [資料字典](docs/DataDictionary.md)
 
-* RequirementAnalysis.md
-* FunctionalRequirements.md
-* NonFunctionalRequirements.md
+---
 
-### 系統圖表
+## 系統圖表
 
-* FDD.md
-* UseCase.md
-* ERD.md
+* [功能分解圖（FDD）](diagrams/FDD.md)
+* [使用案例圖（Use Case）](diagrams/UseCase.md)
+* [實體關聯圖（ERD）](diagrams/ERD.md)
+* [登入流程圖（Flowchart）](diagrams/LoginFlow.md)
+* [循序圖（Sequence Diagram）](diagrams/SequenceDiagram.md)
 
 ---
 
@@ -75,7 +80,7 @@
 
 ---
 
-## 開發工具
+## 使用工具
 
 * GitHub
 * Mermaid
@@ -89,3 +94,11 @@
 * 穿戴裝置整合
 * 健康風險預測
 * Power BI 健康數據儀表板
+
+---
+
+## 專案性質
+
+* 系統分析與設計課程專案
+* 資訊管理學系作品集
+* 系統分析與資料庫設計展示作品
